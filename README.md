@@ -18,4 +18,3 @@ V. Mohammadian Takaloo, M. Hashemzadeh, and J. Ghavidel Neycharan, "DiagCovidPNA
 
 Author's Email: hashemzadeh[at]azaruniv.ac.ir (M. Hashemzadeh).
 
-### *The use of code and dataset is not possible until the above article is published.
